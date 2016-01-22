@@ -6,4 +6,4 @@ require_once('seo.php'); <br>
 $functions = new functions; <br>
 $seo = new SEO;<br>
 
-example $seo->og_title($functions->title);
+example $seo->og_title("Some title");
