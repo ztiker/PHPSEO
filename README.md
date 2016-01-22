@@ -2,9 +2,9 @@
 This library will help improve the SEO of your website allowing easily add MetaTags and OG
 #USAGE
 ```php
-require_once('library/seo.php'); <br>
-$functions = new functions; <br>
-$seo = new SEO;<br>
+require_once('library/seo.php'); 
+$functions = new functions; 
+$seo = new SEO;
 
 example $seo->og_title("Some title");
 ```
